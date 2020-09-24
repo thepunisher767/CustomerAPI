@@ -37,6 +37,7 @@ namespace Northwind_API
                 List<Customers> regionlist = db.Query<Customers>($"SELECT * FROM Customers WHERE Region LIKE '%{region}%' ORDER BY Region").ToList();
                 return regionlist;
         }
+
         public static List<Customers> GetNullRegionCustomers(IDbConnection db)
         {
             {
