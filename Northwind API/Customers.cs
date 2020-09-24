@@ -34,8 +34,15 @@ namespace Northwind_API
 
         public static List<Customers> GetRegionCustomers(IDbConnection db, string region)
         {
-            List<Customers> regionlist = db.Query<Customers>($"SELECT * FROM Customers WHERE Region LIKE '%{region}%' ORDER BY Region").ToList();
-            return regionlist;
+                List<Customers> regionlist = db.Query<Customers>($"SELECT * FROM Customers WHERE Region LIKE '%{region}%' ORDER BY Region").ToList();
+                return regionlist;
+        }
+        public static List<Customers> GetNullRegionCustomers(IDbConnection db)
+        {
+            {
+                List<Customers> regionlist = db.Query<Customers>($"SELECT * FROM Customers WHERE Region IS NULL").ToList();
+                return regionlist;
+            }
         }
 
         public static void AddCustomer(IDbConnection db, Customers cust)
