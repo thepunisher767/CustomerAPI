@@ -6,7 +6,6 @@ using System.Data.SqlClient;
 using System.Data;
 using Dapper;
 using Dapper.Contrib.Extensions;
-using Newtonsoft.Json.Linq;
 
 namespace Northwind_API
 {

@@ -10,8 +10,6 @@ using Dapper.Contrib;
 using Dapper;
 using Dapper.Contrib.Extensions;
 using System.Data.SqlClient;
-using Newtonsoft.Json.Linq;
-using Newtonsoft.Json.Serialization;
 
 namespace Northwind_API.Controllers
 {
