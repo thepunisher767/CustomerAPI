@@ -49,7 +49,7 @@ namespace Northwind_API.Controllers
         }
 
         [HttpGet("CustInfo/Region/")]
-        public List<Customers> GetNullRegion(string region)
+        public List<Customers> GetNullRegion()
         {
                 List<Customers> regionlist = Customers.GetNullRegionCustomers(_db);
                 return regionlist;
