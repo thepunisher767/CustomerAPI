@@ -1,0 +1,30 @@
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\Northwind API.exe
+C:\devbuild4\Northwind API\Northwind API\obj\Debug\netcoreapp3.1\Northwind API.csprojAssemblyReference.cache
+C:\devbuild4\Northwind API\Northwind API\obj\Debug\netcoreapp3.1\Northwind API.AssemblyInfoInputs.cache
+C:\devbuild4\Northwind API\Northwind API\obj\Debug\netcoreapp3.1\Northwind API.AssemblyInfo.cs
+C:\devbuild4\Northwind API\Northwind API\obj\Debug\netcoreapp3.1\Northwind API.RazorTargetAssemblyInfo.cache
+C:\devbuild4\Northwind API\Northwind API\obj\Debug\netcoreapp3.1\staticwebassets\Northwind API.StaticWebAssets.Manifest.cache
+C:\devbuild4\Northwind API\Northwind API\obj\Debug\netcoreapp3.1\staticwebassets\Northwind API.StaticWebAssets.xml
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\devbuild4\Northwind API\Northwind API\obj\Debug\netcoreapp3.1\Northwind API.csproj.CopyComplete
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\Northwind API.deps.json
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\Northwind API.runtimeconfig.json
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\Northwind API.runtimeconfig.dev.json
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\Northwind API.dll
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\Northwind API.pdb
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\devbuild4\Northwind API\Northwind API\obj\Debug\netcoreapp3.1\Northwind API.dll
+C:\devbuild4\Northwind API\Northwind API\obj\Debug\netcoreapp3.1\Northwind API.pdb
+C:\devbuild4\Northwind API\Northwind API\obj\Debug\netcoreapp3.1\Northwind API.genruntimeconfig.cache
+C:\devbuild4\Northwind API\Northwind API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\devbuild4\Northwind API\Northwind API\obj\Debug\netcoreapp3.1\Northwind API.csproj.CoreCompileInputs.cache
+C:\devbuild4\Northwind API\Northwind API\obj\Debug\netcoreapp3.1\Northwind API.MvcApplicationPartsAssemblyInfo.cache
